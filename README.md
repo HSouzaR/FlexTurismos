@@ -1,6 +1,6 @@
 # FlexTurismos
 ## Criação de um WebSite com FlexBox
-Neste projeto utilizei as linguagens HTML5 , CSS3 e FlexBox, o intuito deste projeto é um website com o layout de uma empresa de turismos,
+Neste projeto utilizei as linguagens HTML5 , CSS3, o intuito deste projeto é um website com o layout de uma empresa de turismos,
 aonde foi utilizado como inspiração o nome "FlexTurismos"
 
 
